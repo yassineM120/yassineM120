@@ -1,8 +1,8 @@
 # 🏄‍♂️ Yassine Mardoume
 
-**`Developer/designer`**
+**`Developer/UI/UX designer`**
 
-I'm an Moroccain full-stack developer and logo/web designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an Moroccain full-stack developer and UI/UX designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
